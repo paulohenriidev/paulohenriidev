@@ -23,7 +23,7 @@ This is the space where I spend most of my time where, imagination and creativit
 <hr> 
 </hr>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" /> 
   </a>
