@@ -7,7 +7,7 @@ This is the space where I spend most of my time where, imagination and creativit
 
 <img align="left" width="30px" src="https://em-content.zobj.net/source/apple/129/male-technologist-type-4_1f468-1f3fd-200d-1f4bb.png"/>Full stack developer
 
-<img align="left" width="30px" src="https://yt3.googleusercontent.com/mc1MPwCGHyMq-ck-2mRB020qAWCtvZNId8tCGsPM9SkFdSCkHYLh5f0G-n04nGhdvXUd7Hj-iw=s900-c-k-c0x00ffffff-no-rj"/>Cursando formação 
+<img align="left" width="30px" src="https://yt3.googleusercontent.com/mc1MPwCGHyMq-ck-2mRB020qAWCtvZNId8tCGsPM9SkFdSCkHYLh5f0G-n04nGhdvXUd7Hj-iw=s900-c-k-c0x00ffffff-no-rj"/>Taking the DevClub training
  
 <br>
 
