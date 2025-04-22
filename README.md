@@ -15,9 +15,9 @@ This is the space where I spend most of my time where, imagination and creativit
 
 <p align="left">
    <a href="https://www.instagram.com/phmarqp">
-  <img  alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://skillicons.dev/icons?i=instagram" />
+  <img  alt="icone do instagram" src="https://skillicons.dev/icons?i=instagram" />
  <a href="https://www.linkedin.com/in/paulo-henrique-phmarqp/">
-  <img  alt="LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />
+  <img  alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
  </a>
 </p>
 <hr> 
