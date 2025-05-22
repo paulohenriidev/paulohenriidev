@@ -16,7 +16,7 @@ This is the space where I spend most of my time where, imagination and creativit
 <p align="left">
    <a href="https://www.instagram.com/phmarqp">
   <img  alt="icone do instagram" src="https://skillicons.dev/icons?i=instagram" />
- <a href="https://www.linkedin.com/in/paulohenrii/">
+ <a href="https://www.linkedin.com/in/paulohenrim/">
   <img  alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
  </a>
 </p>
